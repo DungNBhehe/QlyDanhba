@@ -2,4 +2,5 @@
 <resources>
     <item name="editText" type="id" />
     <item name="buttonEdit" type="id" />
+    <item name="main" type="id" />
 </resources>
